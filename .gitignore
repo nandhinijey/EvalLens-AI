@@ -1,0 +1,20 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.db
+backend/calibration/labeled_set.csv
+backend/calibration/calibration_results.csv
+*.pyc
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# OS
+.DS_Store
